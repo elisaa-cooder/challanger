@@ -1,0 +1,31 @@
+
+
+
+.texto{
+	display: flex;
+	flex-direction: row;
+	background: gray;
+	margin: 10px;
+	padding: 15px;
+	width: 600px;
+}
+
+.btnprincipal{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: gray;
+	margin: 10px;
+	padding: 15px;
+	width: 600px;
+}
+
+.mensagem{ 
+	padding: 15px;
+	margin: 10px;
+}
+
+.copiamsg{ 
+	padding: 15px;
+	margin: 10px;
+}
